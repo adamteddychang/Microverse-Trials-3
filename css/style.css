@@ -1,0 +1,18 @@
+#navbar{
+    position: fixed;
+    border: 1px solid;
+    width: 200px;
+    top: 40px;
+    margin-bottom:40px;
+}
+
+a{
+    display: block;
+
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  
